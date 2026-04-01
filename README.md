@@ -1,6 +1,6 @@
 # Hi, I'm Victor Danelichen 👋
 
-Senior Backend Engineer | Applied AI & Data | Financial Systems @ Banco Safra  
+Software Engineer | Applied AI & Data | Financial Systems 
 
 ---
 
